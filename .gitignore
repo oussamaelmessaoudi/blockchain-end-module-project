@@ -1,0 +1,30 @@
+# Truffle
+build/
+src/artifacts/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
