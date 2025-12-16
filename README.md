@@ -99,5 +99,4 @@ flutter run
 
 - **Connection Error**: Make sure Ganache is running on port 7545
 - **Transaction Failed**: Verify the private key is correct
-- **Contract Not Found**: Run `truffle migrate --reset` to redeploy
-- **Build Error**: Make sure the artifacts folder exists after migration
+- **Contract Not Found**: Run `
