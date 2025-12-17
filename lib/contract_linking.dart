@@ -9,8 +9,7 @@ class ContractLinking extends ChangeNotifier {
   final String _rpcUrl = "http://10.0.2.2:7545";
   final String _wsUrl = "ws://10.0.2.2:7545/";
   
-  // IMPORTANT: Replace this with your private key from Ganache
-  final String _privateKey = "YOUR_PRIVATE_KEY_HERE";
+  final String _privateKey = "0x4f8c2b9a7d3e45f1b6c2d0e9a8b7c6d5";
   
   late Web3Client _client;
   bool isLoading = true;
